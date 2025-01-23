@@ -5,6 +5,6 @@
 ### Desgin:-
     HTML, CSS, Vite React JS...
 
-#### Use Context tool
+#### Use Redux Tool.
 
 Store & Management of product system.
